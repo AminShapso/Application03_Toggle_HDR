@@ -1,3 +1,5 @@
+# pyinstaller --noconfirm --onedir --windowed --contents-directory "Toggle HDR" --icon "icon.png"  "Toggle HDR.py"
+
 import pyautogui
 
 pyautogui.keyDown('winleft')
