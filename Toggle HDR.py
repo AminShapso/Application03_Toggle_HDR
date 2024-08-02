@@ -1,4 +1,4 @@
-# pyinstaller --noconfirm --onedir --windowed --contents-directory "Toggle HDR" --icon "icon.png"  "Toggle HDR.py"
+# pyinstaller --noconfirm --onedir --windowed --contents-directory "Toggle HDR" --icon "transparent.png"  "Toggle HDR.py"
 
 import pyautogui
 
